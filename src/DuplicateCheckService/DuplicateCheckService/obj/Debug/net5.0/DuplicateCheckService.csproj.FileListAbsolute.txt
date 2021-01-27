@@ -1,0 +1,16 @@
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.exe
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.deps.json
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.runtimeconfig.json
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.runtimeconfig.dev.json
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.dll
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\ref\DuplicateCheckService.dll
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\bin\Debug\net5.0\DuplicateCheckService.pdb
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.csprojAssemblyReference.cache
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.AssemblyInfoInputs.cache
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.AssemblyInfo.cs
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.csproj.CoreCompileInputs.cache
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.dll
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\ref\DuplicateCheckService.dll
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.pdb
+C:\Users\necro\source\repos\DuplicateCheckService\src\DuplicateCheckService\DuplicateCheckService\obj\Debug\net5.0\DuplicateCheckService.genruntimeconfig.cache
