@@ -1,29 +1,30 @@
-# DuplicateCheckService
-test to validate that an id is not repeated
+# Title of the project
 
-# DuplicateCheckService
+This project is a test to insert an ID without duplicating it
 
-This project validates that the same identifier is not processed more than once
+## Starting 🚀
 
-## Installation
+This project is based on the ** quick_code_test.cs ** template, which is located in documents
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
-```bash
-pip install foobar
-```
+### Source code information 📋
 
-## Usage
+A "contract" interface is created to declare the Id'se storage method
 
-```python
-import foobar
+`` ''
+IStoreIdManager.cs
+`` ''
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+A class is created that implements the ** IStoreIdManager ** interface
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+`` ''
+StoreIdManager.cs
+`` ''
 
-Please make sure to update tests as appropriate.
+## Source template 🖇️
+
+This template is used to generate this [READ.ME] (https://gist.github.com/Villanuevand/6386899f70346d4580c723232524d35a)
+
+## Guilty of this implementation ✒️
+
+* ** Marcelo Vega ** - * Condemnations * - [Linkedin] (linkedin.com/in/marcelo-hernan-vega-janhsen-79464018)
